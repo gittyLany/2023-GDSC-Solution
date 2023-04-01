@@ -18,7 +18,7 @@ Operation Turtle an interactive Story Game that educates and prompts users to co
 Our application follows the life of a turtle that gets assigned tasks. The user travels through different settings (home, ocean, town) and experiences interactive dialogues with our npcs. We incorporated educational messages to shed light on the small habits that people in our society partake in which causes harm to our environment. We showed certain consequences that resulted in user actions, threw in some facts, as well as statistics based on other user actions! We were able to complete this project using flutter, and store and get the statistics using firebase. Currently, we brought up littering, and the use of reusable materials. Going forwards, we can expand the storyline by adding new chapters to explore more topics, such as energy consumption. We also want to make our game playable through a website link.
 
 
-Motivation:
+**Motivation**:
 Currently in Canada, however, these reminders come in the form of monotone research assignments and long assemblies for schools to check off that they talked about how actions matter. People go through life without thinking critically of the habits that they fell into growing up. This leads to a lack of critical thinking and interest in the consequences of our behaviour. 
 
 Our team of two wanted to create an application that would get people invested in the characters and the story. This will help them learn more about the world and how their character’s actions influence the story by actively making choices. We seek to make learning fun through a game where the user’s choices matter and are applicable to everyday life. 
