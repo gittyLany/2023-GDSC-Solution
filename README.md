@@ -41,7 +41,7 @@ Completes the 1st chapter
 Eat food
 Dialogue with the mom turtle on the impacts of material waste
 
-#Current Minigames
+Current Minigames
 Typing Game
 Hidden Object Game
 Direction Memorization Game
