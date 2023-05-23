@@ -27,7 +27,7 @@ New things we learned!
 This was the first time that both of us touched flutter (and dart!) or firebase. The formatting for flutter was a huge struggle for us. We played around with different components and styling to make the project user friendly. 
 
 Current Tasks (main storyline). 
-Speak to mom. 
+Speak to mom  
 Mom turtle reminds the user to bring a reusable bag  
 Go to store   
 User passes by a reusable bag   
@@ -42,10 +42,10 @@ Completes the 1st chapter
 Eat food  
 Dialogue with the mom turtle on the impacts of material waste  
 
-Current Minigames:
-Typing Game
-Hidden Object Game
-Direction Memorization Game
-Throw trash game
+Current Minigames:  
+Typing Game  
+Hidden Object Game  
+Direction Memorization Game  
+Throw trash game  
 
 
